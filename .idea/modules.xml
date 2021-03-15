@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/BlogApp-Refined.iml" filepath="$PROJECT_DIR$/.idea/BlogApp-Refined.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Week-10-Task.iml" filepath="$PROJECT_DIR$/.idea/modules/Week-10-Task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Week-10-Task.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Week-10-Task.app.iml" />
     </modules>
   </component>
 </project>

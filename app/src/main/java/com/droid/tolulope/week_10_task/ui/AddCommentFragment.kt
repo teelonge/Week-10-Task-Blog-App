@@ -34,7 +34,7 @@ class AddCommentFragment : Fragment() {
     ): View {
         _binding = FragmentAddcommentBinding.inflate(inflater,container,false)
 
-        // Gets the postdetail from the postDetail to get access to the commentId
+        // Gets the postDetail from the postDetail to get access to the commentId
         postDetail = args.postDetail
         return binding.root
     }
